@@ -15,6 +15,319 @@
     "name": "typicode"
   },
   "zcudata":[
-  {"quoteNumber":"2321145691","salesContact":"eghb","quoteStatus":"Subittal","operationsContact":"dfebb","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"efcdf"},{"quoteNumber":"2321145692","salesContact":"ienlddl","quoteStatus":"Subittal","operationsContact":"ieieo","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"iieoo"},{"quoteNumber":"2321145693","salesContact":"deber","quoteStatus":"Quote","operationsContact":"hnrrtf","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"eg4eg"},{"quoteNumber":"2321145694","salesContact":"erfve","quoteStatus":"Quote","operationsContact":"trbrr","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"ergh"},{"quoteNumber":"2321145695","salesContact":"asdfeet","quoteStatus":"Quote Request","operationsContact":"e4tg","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"eter"},{"quoteNumber":"2321145696","salesContact":"sfg","quoteStatus":"Quote Request","operationsContact":"ljokj","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"lkj"},{"quoteNumber":"2321145697","salesContact":"Karan,Shinde","quoteStatus":"New","operationsContact":"Rohan,Kedari","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"Rohan,Kedari"},{"quoteNumber":"2321145698","salesContact":"Rohan,Kedari","quoteStatus":"New","operationsContact":"Karan,Shinde","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"Rohan,Kedari"},{"quoteNumber":"2321145699","salesContact":"Vikesh","quoteStatus":"New","operationsContact":"Yash","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"Rohan,Kedari"}
+  {"quoteNumber":"2321145691","salesContact":"eghb","quoteStatus":"Subittal","operationsContact":"dfebb","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"efcdf"},{"quoteNumber":"2321145692","salesContact":"ienlddl","quoteStatus":"Subittal","operationsContact":"ieieo","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"iieoo"},{"quoteNumber":"2321145693","salesContact":"deber","quoteStatus":"Quote","operationsContact":"hnrrtf","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"eg4eg"},{"quoteNumber":"2321145694","salesContact":"erfve","quoteStatus":"Quote","operationsContact":"trbrr","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"ergh"},{"quoteNumber":"2321145695","salesContact":"asdfeet","quoteStatus":"Quote Request","operationsContact":"e4tg","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"eter"},{"quoteNumber":"2321145696","salesContact":"sfg","quoteStatus":"Quote Request","operationsContact":"ljokj","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"lkj"},{"quoteNumber":"2321145697","salesContact":"Karan,Shinde","quoteStatus":"New","operationsContact":"Rohan,Kedari","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"Rohan,Kedari"},{"quoteNumber":"2321145698","salesContact":"Rohan,Kedari","quoteStatus":"New","operationsContact":"Karan,Shinde","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"Rohan,Kedari"},{"quoteNumber":"2321145699","salesContact":"Vikesh","quoteStatus":"New","operationsContact":"Yash","modifiedDate":"2019-05-14T00:00:00","modifiedBy":"Rohan,Kedari"},
+  {
+    "quoteNumber": "e23b8a17-6a7e-4b7a-8ee6-5274a7440179",
+    "salesContact": "+1 (801) 524-2686",
+    "quoteStatus": "TALENDULA",
+    "operationsContact": "+1 (896) 464-2939",
+    "modifiedDate": "Friday, November 24, 2017 4:53 AM",
+    "modifiedBy": "Monday, February 17, 2014 12:43 PM"
+  },
+  {
+    "quoteNumber": "50684903-f6b7-4304-90a1-3552c48217df",
+    "salesContact": "+1 (879) 507-3014",
+    "quoteStatus": "ZENSUS",
+    "operationsContact": "+1 (859) 412-2167",
+    "modifiedDate": "Friday, October 6, 2017 12:22 AM",
+    "modifiedBy": "Wednesday, May 13, 2015 11:28 PM"
+  },
+  {
+    "quoteNumber": "4ab234d0-2da3-43a0-9ba2-ed91a56b5f81",
+    "salesContact": "+1 (999) 513-2227",
+    "quoteStatus": "LEXICONDO",
+    "operationsContact": "+1 (903) 505-2065",
+    "modifiedDate": "Monday, August 15, 2016 10:57 AM",
+    "modifiedBy": "Thursday, January 11, 2018 8:18 PM"
+  },
+  {
+    "quoteNumber": "3b19717a-d0aa-418b-a425-7a33c1fc733e",
+    "salesContact": "+1 (885) 561-2284",
+    "quoteStatus": "MICROLUXE",
+    "operationsContact": "+1 (994) 444-2544",
+    "modifiedDate": "Monday, July 2, 2018 7:33 AM",
+    "modifiedBy": "Friday, February 6, 2015 3:15 PM"
+  },
+  {
+    "quoteNumber": "8997b333-bb84-4d31-aa40-f6e23c403a2c",
+    "salesContact": "+1 (997) 431-2474",
+    "quoteStatus": "BIOHAB",
+    "operationsContact": "+1 (902) 545-2740",
+    "modifiedDate": "Sunday, September 20, 2015 2:12 AM",
+    "modifiedBy": "Thursday, May 12, 2016 11:39 PM"
+  },
+  {
+    "quoteNumber": "1f89a728-4da4-4b01-bb50-b6614ab18c42",
+    "salesContact": "+1 (906) 597-3906",
+    "quoteStatus": "MANTRIX",
+    "operationsContact": "+1 (839) 472-3196",
+    "modifiedDate": "Sunday, May 8, 2016 3:00 PM",
+    "modifiedBy": "Wednesday, September 3, 2014 5:56 PM"
+  },
+  {
+    "quoteNumber": "2dff43f7-815d-4408-8694-487d1abefcfc",
+    "salesContact": "+1 (881) 477-2164",
+    "quoteStatus": "BUZZNESS",
+    "operationsContact": "+1 (952) 403-3716",
+    "modifiedDate": "Thursday, March 28, 2019 7:27 PM",
+    "modifiedBy": "Friday, April 6, 2018 8:52 AM"
+  },
+  {
+    "quoteNumber": "176aca23-079f-45bc-9cb2-3e0b1a809b79",
+    "salesContact": "+1 (973) 525-2252",
+    "quoteStatus": "SILODYNE",
+    "operationsContact": "+1 (918) 556-3357",
+    "modifiedDate": "Wednesday, March 1, 2017 1:36 AM",
+    "modifiedBy": "Sunday, August 6, 2017 3:43 PM"
+  },
+  {
+    "quoteNumber": "da8d3837-5889-4b48-b66f-5e3f6df809bb",
+    "salesContact": "+1 (979) 570-2569",
+    "quoteStatus": "COMBOGENE",
+    "operationsContact": "+1 (996) 582-3109",
+    "modifiedDate": "Wednesday, August 1, 2018 9:02 AM",
+    "modifiedBy": "Sunday, December 10, 2017 9:15 AM"
+  },
+  {
+    "quoteNumber": "24a2636c-b7b2-4217-bd41-a26f4b1f1e44",
+    "salesContact": "+1 (895) 507-3366",
+    "quoteStatus": "EQUITAX",
+    "operationsContact": "+1 (891) 519-2922",
+    "modifiedDate": "Sunday, June 3, 2018 11:39 PM",
+    "modifiedBy": "Friday, April 6, 2018 12:37 PM"
+  },
+  {
+    "quoteNumber": "a8882b28-8a21-4cdf-986c-cbd6547f0638",
+    "salesContact": "+1 (970) 549-3177",
+    "quoteStatus": "DYNO",
+    "operationsContact": "+1 (822) 515-3666",
+    "modifiedDate": "Friday, November 4, 2016 3:24 AM",
+    "modifiedBy": "Tuesday, June 17, 2014 1:24 AM"
+  },
+  {
+    "quoteNumber": "5df5140b-17e4-4a6c-892d-38d366cbb7a9",
+    "salesContact": "+1 (917) 600-2145",
+    "quoteStatus": "MACRONAUT",
+    "operationsContact": "+1 (901) 564-3521",
+    "modifiedDate": "Monday, July 13, 2015 8:56 PM",
+    "modifiedBy": "Monday, July 9, 2018 8:51 PM"
+  },
+  {
+    "quoteNumber": "2535a5d8-8edf-4246-87b1-b35ab85f30dc",
+    "salesContact": "+1 (992) 598-3674",
+    "quoteStatus": "ZENSOR",
+    "operationsContact": "+1 (862) 562-3010",
+    "modifiedDate": "Wednesday, June 20, 2018 1:38 AM",
+    "modifiedBy": "Tuesday, October 9, 2018 9:06 PM"
+  },
+  {
+    "quoteNumber": "0267e9e6-d605-44f8-8867-83bf5a487f05",
+    "salesContact": "+1 (954) 494-3324",
+    "quoteStatus": "ANDRYX",
+    "operationsContact": "+1 (823) 539-3385",
+    "modifiedDate": "Tuesday, May 19, 2015 12:22 AM",
+    "modifiedBy": "Friday, March 11, 2016 10:03 AM"
+  },
+  {
+    "quoteNumber": "72665006-d058-4d85-b2d3-586b791f3ac2",
+    "salesContact": "+1 (930) 448-3799",
+    "quoteStatus": "BOILCAT",
+    "operationsContact": "+1 (861) 457-2497",
+    "modifiedDate": "Thursday, August 21, 2014 10:01 AM",
+    "modifiedBy": "Thursday, September 7, 2017 11:57 PM"
+  },
+  {
+    "quoteNumber": "1d058afd-c176-4843-8542-276675d7543c",
+    "salesContact": "+1 (961) 432-2715",
+    "quoteStatus": "CORPULSE",
+    "operationsContact": "+1 (801) 599-2234",
+    "modifiedDate": "Thursday, December 6, 2018 5:14 AM",
+    "modifiedBy": "Saturday, May 31, 2014 5:08 PM"
+  },
+  {
+    "quoteNumber": "d0e3cfb7-1b55-485f-98ea-a252e8e63b2f",
+    "salesContact": "+1 (961) 400-2917",
+    "quoteStatus": "ZANILLA",
+    "operationsContact": "+1 (981) 550-3104",
+    "modifiedDate": "Friday, February 22, 2019 2:06 PM",
+    "modifiedBy": "Tuesday, October 17, 2017 8:35 PM"
+  },
+  {
+    "quoteNumber": "891dd104-2fe8-4315-a33c-df33aec20d48",
+    "salesContact": "+1 (844) 518-3181",
+    "quoteStatus": "TRIPSCH",
+    "operationsContact": "+1 (841) 405-2057",
+    "modifiedDate": "Sunday, January 21, 2018 8:58 PM",
+    "modifiedBy": "Thursday, March 22, 2018 4:57 AM"
+  },
+  {
+    "quoteNumber": "9445c33f-bb83-4580-af81-2eda60326bff",
+    "salesContact": "+1 (812) 537-2897",
+    "quoteStatus": "EMTRAC",
+    "operationsContact": "+1 (889) 540-2575",
+    "modifiedDate": "Sunday, August 2, 2015 10:38 PM",
+    "modifiedBy": "Wednesday, April 3, 2019 3:58 AM"
+  },
+  {
+    "quoteNumber": "0ef4fe7f-ad7b-4ad5-8687-86472e01d8ba",
+    "salesContact": "+1 (975) 463-3882",
+    "quoteStatus": "SCENTY",
+    "operationsContact": "+1 (965) 552-3447",
+    "modifiedDate": "Wednesday, July 15, 2015 2:37 PM",
+    "modifiedBy": "Monday, July 13, 2015 7:46 PM"
+  },
+  {
+    "quoteNumber": "556b180c-538f-4071-9dbf-05b6068e2bd7",
+    "salesContact": "+1 (834) 440-3563",
+    "quoteStatus": "INRT",
+    "operationsContact": "+1 (982) 406-2780",
+    "modifiedDate": "Tuesday, October 30, 2018 8:16 PM",
+    "modifiedBy": "Thursday, February 13, 2014 8:39 AM"
+  },
+  {
+    "quoteNumber": "9eb54bed-9822-42fc-b413-69476f4a4c96",
+    "salesContact": "+1 (843) 578-3941",
+    "quoteStatus": "IPLAX",
+    "operationsContact": "+1 (905) 445-2009",
+    "modifiedDate": "Friday, June 29, 2018 11:27 AM",
+    "modifiedBy": "Thursday, April 20, 2017 9:35 AM"
+  },
+  {
+    "quoteNumber": "1a86b84d-e323-4b70-9b35-258728c524be",
+    "salesContact": "+1 (980) 534-3253",
+    "quoteStatus": "MAGNEMO",
+    "operationsContact": "+1 (844) 561-2172",
+    "modifiedDate": "Friday, December 15, 2017 10:40 AM",
+    "modifiedBy": "Tuesday, January 16, 2018 3:48 AM"
+  },
+  {
+    "quoteNumber": "addc094a-59f2-42e5-908f-734e9bdc1a6e",
+    "salesContact": "+1 (860) 562-3781",
+    "quoteStatus": "LOVEPAD",
+    "operationsContact": "+1 (902) 476-3941",
+    "modifiedDate": "Tuesday, October 30, 2018 6:59 PM",
+    "modifiedBy": "Saturday, April 12, 2014 11:55 PM"
+  },
+  {
+    "quoteNumber": "194434fe-4ee0-4948-95ba-9791b10b9bc1",
+    "salesContact": "+1 (823) 426-3929",
+    "quoteStatus": "ACCUPRINT",
+    "operationsContact": "+1 (841) 433-2392",
+    "modifiedDate": "Thursday, March 15, 2018 1:41 PM",
+    "modifiedBy": "Friday, January 15, 2016 1:55 PM"
+  },
+  {
+    "quoteNumber": "19e4ee92-0ee7-4c99-bfa8-b5da3f429ead",
+    "salesContact": "+1 (889) 500-3066",
+    "quoteStatus": "ASSISTIA",
+    "operationsContact": "+1 (863) 596-3900",
+    "modifiedDate": "Sunday, November 27, 2016 8:06 AM",
+    "modifiedBy": "Thursday, December 6, 2018 10:25 AM"
+  },
+  {
+    "quoteNumber": "42198698-0007-47c8-9499-2d3fba6cc9cd",
+    "salesContact": "+1 (877) 447-3314",
+    "quoteStatus": "COMTOUR",
+    "operationsContact": "+1 (811) 447-2042",
+    "modifiedDate": "Tuesday, October 20, 2015 7:38 AM",
+    "modifiedBy": "Wednesday, October 22, 2014 4:46 PM"
+  },
+  {
+    "quoteNumber": "5a99cf07-c37a-47ae-b8ae-f11ca50d275a",
+    "salesContact": "+1 (962) 464-2219",
+    "quoteStatus": "PHARMACON",
+    "operationsContact": "+1 (954) 520-3825",
+    "modifiedDate": "Wednesday, March 9, 2016 2:41 PM",
+    "modifiedBy": "Tuesday, July 8, 2014 1:38 PM"
+  },
+  {
+    "quoteNumber": "3974b472-19ff-453e-af82-739cd205858b",
+    "salesContact": "+1 (911) 479-3493",
+    "quoteStatus": "ZOGAK",
+    "operationsContact": "+1 (837) 468-2507",
+    "modifiedDate": "Wednesday, June 17, 2015 12:05 AM",
+    "modifiedBy": "Wednesday, August 24, 2016 8:52 AM"
+  },
+  {
+    "quoteNumber": "34cdf32a-f75c-4290-a2e9-4d57e7e034e5",
+    "salesContact": "+1 (889) 578-2939",
+    "quoteStatus": "TELEPARK",
+    "operationsContact": "+1 (943) 528-3975",
+    "modifiedDate": "Friday, July 22, 2016 11:05 AM",
+    "modifiedBy": "Thursday, August 24, 2017 10:50 PM"
+  },
+  {
+    "quoteNumber": "8102988c-87e7-44ef-a301-8bfb99e6069e",
+    "salesContact": "+1 (865) 596-3213",
+    "quoteStatus": "DIGIGENE",
+    "operationsContact": "+1 (858) 474-3370",
+    "modifiedDate": "Saturday, January 21, 2017 6:32 AM",
+    "modifiedBy": "Monday, April 28, 2014 9:35 AM"
+  },
+  {
+    "quoteNumber": "ef372b34-89f0-4aa1-b903-9bd5e0aa7534",
+    "salesContact": "+1 (873) 432-3136",
+    "quoteStatus": "IRACK",
+    "operationsContact": "+1 (927) 550-3702",
+    "modifiedDate": "Monday, February 16, 2015 6:28 AM",
+    "modifiedBy": "Monday, February 16, 2015 2:26 AM"
+  },
+  {
+    "quoteNumber": "74a7e034-c298-429d-a557-6b36a61b0b2b",
+    "salesContact": "+1 (892) 519-2591",
+    "quoteStatus": "UNI",
+    "operationsContact": "+1 (847) 429-3191",
+    "modifiedDate": "Saturday, March 2, 2019 2:54 AM",
+    "modifiedBy": "Tuesday, September 18, 2018 1:48 AM"
+  },
+  {
+    "quoteNumber": "203d3cbd-db58-43ee-876e-eb19f3d4c2d1",
+    "salesContact": "+1 (940) 516-2909",
+    "quoteStatus": "FUELTON",
+    "operationsContact": "+1 (955) 439-3849",
+    "modifiedDate": "Saturday, December 30, 2017 2:44 AM",
+    "modifiedBy": "Sunday, April 19, 2015 2:27 AM"
+  },
+  {
+    "quoteNumber": "4e4f5348-1636-49cc-bab6-3a68964c1042",
+    "salesContact": "+1 (916) 438-2407",
+    "quoteStatus": "ZYPLE",
+    "operationsContact": "+1 (913) 495-2766",
+    "modifiedDate": "Friday, May 6, 2016 9:11 AM",
+    "modifiedBy": "Monday, May 23, 2016 8:47 AM"
+  },
+  {
+    "quoteNumber": "6ae5deec-ded9-4927-932c-66985287ddfb",
+    "salesContact": "+1 (850) 429-3587",
+    "quoteStatus": "ZYTRAX",
+    "operationsContact": "+1 (977) 535-2151",
+    "modifiedDate": "Sunday, April 28, 2019 3:55 PM",
+    "modifiedBy": "Monday, October 24, 2016 5:36 AM"
+  },
+  {
+    "quoteNumber": "def01fa0-9de2-42e0-8b70-047e7213a8d4",
+    "salesContact": "+1 (853) 423-2124",
+    "quoteStatus": "ICOLOGY",
+    "operationsContact": "+1 (976) 581-3520",
+    "modifiedDate": "Friday, June 5, 2015 9:09 AM",
+    "modifiedBy": "Sunday, August 13, 2017 9:56 PM"
+  },
+  {
+    "quoteNumber": "9d954b4e-9447-4fea-9688-745e936cff2e",
+    "salesContact": "+1 (935) 577-3164",
+    "quoteStatus": "EARTHPLEX",
+    "operationsContact": "+1 (885) 525-3050",
+    "modifiedDate": "Friday, April 10, 2015 11:49 AM",
+    "modifiedBy": "Thursday, September 17, 2015 1:00 AM"
+  },
+  {
+    "quoteNumber": "51ae3ae2-ea32-4b94-98cc-f596dcf16a0b",
+    "salesContact": "+1 (968) 480-3035",
+    "quoteStatus": "ORGANICA",
+    "operationsContact": "+1 (852) 561-2410",
+    "modifiedDate": "Monday, August 25, 2014 7:13 AM",
+    "modifiedBy": "Thursday, July 23, 2015 11:59 AM"
+  }
+
   ]
 }
